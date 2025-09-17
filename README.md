@@ -1,11 +1,22 @@
-[![MasterHead](https://services.harman.com/Blogs/PublishingImages/agile_blogbanner_0.jpg)
+![MasterHead](https://raw.githubusercontent.com/awais684/awais684/main/MuhammAD%20AWAIS%20(2).png)
+
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
-<h3 align="center">DevOps & Cloud Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8e/e2/12/8ee212dac057d412972e0c8cc164deee.gif">
+<h3 align="center">DevSecOps & Cloud Engineer From Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awais684&label=Profile%20views&color=0e75b6&style=flat" alt="awais684" /> </p>
+<p align="center">
+  <img alt="Coding" width="400" src="https://i.pinimg.com/originals/8e/e2/12/8ee212dac057d412972e0c8cc164deee.gif">
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awais684" alt="awais684" /></a> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=awais684&label=Profile%20views&color=0e75b6&style=flat" alt="awais684" /> 
+</p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=awais684" alt="awais684" />
+  </a> 
+</p>
+
 
 - 🔭 I’m currently working on **Multitier Architecture**
 
