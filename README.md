@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **Multitier Architecture**
 
-- 🌱 I’m currently learning **APIs**
+- 🌱 I’m currently learning **AI & ML infusion in DevOps Workflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/awais684](https://github.com/awais684)
 
