@@ -1,7 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/awais684/awais684/main/MuhammAD%20AWAIS%20(2).png)
 
-<h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
-<h3 align="center">DevSecOps & Cloud Engineer From Pakistan</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Awais!;+A+Cloud+and+DevSecOps+Engineer!" />
+</h1>
+<h3 align="center">🚀 DevOps Engineer with 6 years of professional experience in CI/CD, cloud infrastructure, and automation</h3>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://i.pinimg.com/originals/8e/e2/12/8ee212dac057d412972e0c8cc164deee.gif">
