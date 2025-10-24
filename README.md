@@ -5,10 +5,6 @@
 </h1>
 <h3 align="center">🚀 DevOps Engineer with 6 years of professional experience in CI/CD, cloud infrastructure, and automation</h3>
 
-<p align="center">
-  <img alt="Coding" width="400" src="https://i.pinimg.com/originals/8e/e2/12/8ee212dac057d412972e0c8cc164deee.gif">
-</p>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=awais684&label=Profile%20views&color=0e75b6&style=flat" alt="awais684" /> 
 </p>
@@ -18,6 +14,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=awais684" alt="awais684" />
   </a> 
 </p>
+
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8e/e2/12/8ee212dac057d412972e0c8cc164deee.gif">
 
 
 - 🔭 I’m currently working on **Multitier Architecture**
