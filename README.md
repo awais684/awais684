@@ -39,14 +39,14 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8e/e2/12/8ee212dac057d412972e0c8cc164deee.gif">
 
 
-- 🔭 currently working on **cloud native solutions**, **AI & ML infusion in DevOps Workflow**
-
+- 🔭 Currently working on **Cloud native solutions**, **AI & ML infusion in DevOps Workflow**
+  
 - 💬 Ask me about **Cloud, DevOps solutions**
-
-- 👨‍💻 All of my projects are available at [https://github.com/awais684](https://github.com/awais684)
-
-- 📝 I regularly write articles on [https://dev.to/awais_684](https://dev.to/awais_684)
-
+  
+- 👨‍💻 All of my projects are available on [![GitHub](https://img.shields.io/badge/GitHub-1DA1F2?logo=github&logoColor=white)](https://github.com/awais684)
+  
+- 📝 I regularly write articles on [![Dev.to](https://img.shields.io/badge/Dev.to-1DA1F2?logo=dev.to&logoColor=white)](https://dev.to/awais_684)
+  
 - ⚡ Fun fact: I love sharing knowledge through **training and mentoring**
 
 <br clear="both"/>
