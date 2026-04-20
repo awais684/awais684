@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Awais!;+Cloud+%26+DevSecOps+Engineer!" />
 </h1>
 
-<h3 align="center">🚀 Senior DevOps Engineer · CI/CD · Cloud Infrastructure · Automation · Security</h3>
+<h3 align="center"> Senior DevOps Engineer · CI/CD · Cloud Infrastructure · Automation · Security</h3>
 
 <br/>
 
