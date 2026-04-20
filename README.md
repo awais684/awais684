@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/awais684/awais684/main/MuhammAD%20AWAIS%20.png.png)
+![MasterHead](https://raw.githubusercontent.com/awais684/awais684/main/MuhammAD%20AWAIS.png)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Awais!;+Cloud+%26+DevSecOps+Engineer!" />
