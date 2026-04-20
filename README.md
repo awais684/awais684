@@ -17,21 +17,13 @@
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-5x-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Azure%20Certified-3x-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GCP%20Certified-2x-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CKA-Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CKAD-Application%20Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CKS-Security%20Specialist-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-EA1D2C?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Certified-6x-orange?logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Certified-3x-0078D4?logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP%20Certified-2x-4285F4?logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CKAD-Certified%20Kubernetes%20Application%20Developer-326CE5?logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CKS-Certified%20Kubernetes%20Security%20Specialist-326CE5?logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-EA1D2C?logo=hackaday&logoColor=white"/>
 </p>
 
 ---
@@ -62,10 +54,6 @@
   &nbsp;
   <a href="https://www.youtube.com/@CloudSubscribers" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/awais684" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   &nbsp;
   <a href="https://dev.to/awais_684" target="_blank">
@@ -154,11 +142,6 @@
     <td align="center">
       <a href="https://mariadb.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="45" height="45"/><br/>MariaDB
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45"/><br/>MSSQL
       </a>
     </td>
     <td align="center">
